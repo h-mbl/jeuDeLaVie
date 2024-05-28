@@ -18,11 +18,7 @@ A living cell with two or three living neighboring cells survives, otherwise it 
 Program Information
 The program is implemented in Python.
 
-# Data Structures Used
-The following data structures are used:
-
-Array
-List
-Turtle
+# Used
+Python Turtle
 # Programming Paradigm
 The program follows a functional and procedural programming paradigm.
