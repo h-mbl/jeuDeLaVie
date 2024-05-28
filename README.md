@@ -22,3 +22,7 @@ The program is implemented in Python.
 Python Turtle
 # Programming Paradigm
 The program follows a functional and procedural programming paradigm.
+
+## picture
+![image](https://github.com/h-mbl/jeuDeLaVie/assets/125308992/ae45fd86-1433-4d1c-ab7e-52c7b8578ccc)
+
